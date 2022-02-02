@@ -1,1 +1,0 @@
-in this project you will find the basic concepts of shell

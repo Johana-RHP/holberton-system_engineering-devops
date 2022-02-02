@@ -1,0 +1,2 @@
+#!/bin/bash
+export tail -n1 ejemplo_iacta >> ejemplo_iacta 
